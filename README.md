@@ -1,6 +1,7 @@
 # 👾 Console-Based Arcade
 
 Welcome to Console-Based Arcade, a collection of classic games implemented in Python and designed to be played in the console/terminal environment.
+Most of the games can be played both as Player vs AI, and as Player vs Player.
 
 ## Introduction
 
